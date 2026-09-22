@@ -1,5 +1,5 @@
 function love.conf(t)
-    t.identity = "Toss the Ball - ZB"
+    t.identity = "Toss-the-Ball-ZB"
     t.appendidentity = false
     t.version = "11.5"
     t.console = false
