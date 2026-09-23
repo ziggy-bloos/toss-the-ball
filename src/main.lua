@@ -1,4 +1,4 @@
--- Copyright (c) 2026 ZiggyBloos | ZLIB LICENSE, See LICENSE for details
+-- Copyright (c) 2026 ZiggyBloos | ZLIB LICENSE, See LICENSE.txt for details
 
 local cam = {scale = 1, offX = 0, offY = 0}
 
